@@ -1,0 +1,27 @@
+body {
+    
+    background-color : coral;
+}
+#container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+div > h1 {
+    font-size : 50px;
+    text-align: center;
+    color : snow;
+    font-family: sans-serif;
+    padding: 50px;
+    margin-top: 50px;
+}
+#footer{
+}
+.para {
+    color: azure;
+    font-size : 20px;
+    font-family: sans-serif;
+    padding: 10px;
+    text-align: center;
+    background-color: silver;
+
+}
